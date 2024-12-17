@@ -33,4 +33,5 @@ Implementation of ModelCheckpoint will allow monitoring and saving of the best m
 ### Conclusion
 VisionQuest leverages cutting-edge machine learning technologies to offer a scalable and environmentally friendly checkout solution, promising significant improvements in efficiency and waste reduction.
 
-The model with the 91 percent accuracy was mainly done and completed by Jackson Sutherland (it was pushed to this remote repository by Suman Upreti).
+The model with the 91 percent accuracy was mainly done and completed by Jackson Sutherland (it was pushed to this remote repository by Suman Upreti). Here is the link for the code uploaded from Kaggle written by Jackson:
+https://www.kaggle.com/code/jacksonsutherland/ml-project
